@@ -1,0 +1,1 @@
+Dans cette tâche, nous allons créer une classe abstraite pour une banque qui sera utilisée pour créer une classe ordinaire pour une banque spécifique. Cette classe contiendra l'implémentation de la méthode abstraite de la classe abstraite.
